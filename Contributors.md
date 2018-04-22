@@ -3411,4 +3411,4 @@
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
-- [Sussette Bl](https://github.com/sblasaws)
+- [SBlasa](https://github.com/sblasaws)
